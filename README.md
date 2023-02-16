@@ -2,7 +2,9 @@
 A Forge-based Minecraft modpack focusing on performance and graphics enhancements - Based off the original Fabulously Optimized for Fabric.
 
 # Why remake this for Forge?
-Even though, in recent years, Fabric has seen the biggest contributions regarding optimizations for modded scenarios, there's still a pretty large amount of players that use Forge. This modpack is for them.
+Even though, in recent years, Fabric has seen the biggest contributions regarding optimizations for modded scenarios, there's still a pretty large amount of players that use Forge. These modpacks are for them.
+
+The idea of these modpacks is not to replace all Forge packs. Hopefully, this will work as an addition for already-existing modpacks, so once you download the mods available in here, you can just drop them onto your main mods folder, and see significant performance improvements.
 
 # Why support 1.12.2 & 1.16.5?
 Ironically, the people that most need these kind of packs are also the ones less likely to be able to use them. Modern Minecraft can be insanely heavy for low-end devices, and even when using a ton of optimization mods, there are still lots of people unable to play Minecraft correctly past 1.16.5 (And in some cases, even struggle past 1.12.2).
