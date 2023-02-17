@@ -1,9 +1,9 @@
-# ![Fabulously Optimized Forge](https://user-images.githubusercontent.com/46550675/219758500-78c177fa-745b-4337-b30a-159072b50c95.png) Fabulously Optimized, but Forge
-A serie of Forge-based Minecraft modpacks focusing on performance and gameplay enhancements - Based off the original Fabulously Optimized for Fabric.
+# ![Fantastically Optimized Forge](https://user-images.githubusercontent.com/46550675/219758500-78c177fa-745b-4337-b30a-159072b50c95.png) Fantastically Optimized Forge
+A serie of Forge-based Minecraft modpacks focusing on performance and gameplay enhancements - Based off the [Fabulously Optimized for Fabric](https://github.com/Fabulously-Optimized/fabulously-optimized).
 
 **I'm currently looking for people to help developing and testing these modpacks. Any contribution is appreciated!**
 
-# Why remake this for Forge?
+# Why remake this on Forge?
 Even though, in recent years, Fabric has seen the biggest contributions regarding optimizations for modded scenarios, there's still a pretty large amount of players that use Forge. These modpacks are made for them.
 
 The idea of these modpacks is not to replace all Forge packs. Hopefully, this will work as an addition for already-existing modpacks and Vanilla players, so once you download the mods available in here, you can just drop them onto your main mods folder, and see significant performance improvements, or if you're just a Vanilla player, install one of these packs, and see major improvements over just Vanilla/Optifine.
@@ -72,4 +72,4 @@ Thanks, so do I. But anyways, before you go to admincraft and start smacktalking
 4. In order to bring as many features or optimizations as possible, some of the packs may use incomplete/unstable versions of some mods.
 5. This is not a direct fork of [Fabulously Optimized for Fabric](https://github.com/Fabulously-Optimized/fabulously-optimized) nor is officially supported by its author. If you have any issues while using one of the Fabulously Optimized **for Forge** modpacks, please make an issue request in **this** repository.
 6. In the event that any of these modpacks end up making the overall experience (Especially performance) worse than compared to just using Optifine, it's very likely that I'll just drop support for that specific version(s).
-7. The only real reason why I use FO as the main name it's because that way I can get more attention (Very smart, I know).
+7. The only real reason why the name and logos are based off Fabulously Optimized it's because that way I can get more attention (Very smart, I know).
