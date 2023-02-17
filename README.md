@@ -1,10 +1,10 @@
 # ![Fabulously Optimized Forge](https://user-images.githubusercontent.com/46550675/219758500-78c177fa-745b-4337-b30a-159072b50c95.png) Fabulously Optimized, but Forge
-A Forge-based Minecraft modpack focusing on performance and graphics enhancements - Based off the original Fabulously Optimized for Fabric.
+A serie of Forge-based Minecraft modpacks focusing on performance and graphics enhancements - Based off the original Fabulously Optimized for Fabric.
 
 **I'm currently looking for people to help developing and testing these modpacks. Any contribution is appreciated!**
 
 # Why remake this for Forge?
-Even though, in recent years, Fabric has seen the biggest contributions regarding optimizations for modded scenarios, there's still a pretty large amount of players that use Forge. These modpacks are for them.
+Even though, in recent years, Fabric has seen the biggest contributions regarding optimizations for modded scenarios, there's still a pretty large amount of players that use Forge. These modpacks are made for them.
 
 The idea of these modpacks is not to replace all Forge packs. Hopefully, this will work as an addition for already-existing modpacks and Vanilla players, so once you download the mods available in here, you can just drop them onto your main mods folder, and see significant performance improvements, or if you're just a Vanilla player, install one of these packs, and see major improvements over just Vanilla/Optifine.
 
