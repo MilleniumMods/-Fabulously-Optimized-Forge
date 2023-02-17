@@ -31,26 +31,27 @@ Ironically, the people that most need these kind of packs are also the ones less
 These tests are only made for comparison purposes and should not be used as expected results for each person's setup. All tests were done within the same world seed.
 
 **Startup time**
-| Version | Without FOF | With FOF |
-|---|---|---|
-| 1.12.2 | 44s | 55s |
-| 1.16.5 | | |
-| 1.19.3 | | |
+| Version | Without FOF | With FOF | Optifine | FO Fabric |
+|---|---|---|---|
+| 1.12.2 | 44s | 55s | | |
+| 1.16.5 | | | | |
+| 1.19.3 | | | | |
 
 **Average FPS - 1000 Entities**
-| Version | Without FOF | With FOF |
-|---|---|---|
-| 1.12.2 | | |
-| 1.16.5 | | |
-| 1.19.3 | | |
+| Version | Without FOF | With FOF | Optifine | FO Fabric |
+|---|---|---|---|
+| 1.12.2 | | | | |
+| 1.16.5 | | | | |
+| 1.19.3 | | | | |
 
 **Average FPS - Pre-generated exploration**
-| Version | Without FOF | With FOF |
-|---|---|---|
-| 1.12.2 | | |
-| 1.16.5 | | |
-| 1.19.3 | | |
+| Version | Without FOF | With FOF | Optifine | FO Fabric |
+|---|---|---|---|
+| 1.12.2 | | | | |
+| 1.16.5 | | | | |
+| 1.19.3 | | | | |
 
+* FO Fabric: Fabulously Optimized Fabric, if applicable for the version
 * FOF: Fabulously Optimized Forge
 * Seed: THISISARANDOMSEEDLOL
 
