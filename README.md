@@ -57,7 +57,7 @@ These tests are only made for comparison purposes and should not be used as expe
 
 # Known issues
 - 1.12.2:
-1. Nothirium causes OptiFine's DynamicLights not work at all.
+1. Nothirium causes OptiFine's DynamicLights to not work at all.
 - 1.16.5:
 
 - 1.19.3:
