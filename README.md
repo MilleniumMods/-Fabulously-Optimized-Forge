@@ -1,5 +1,5 @@
 # ![Fabulously Optimized Forge](https://user-images.githubusercontent.com/46550675/219758500-78c177fa-745b-4337-b30a-159072b50c95.png) Fabulously Optimized, but Forge
-A serie of Forge-based Minecraft modpacks focusing on performance and graphics enhancements - Based off the original Fabulously Optimized for Fabric.
+A serie of Forge-based Minecraft modpacks focusing on performance and gameplay enhancements - Based off the original Fabulously Optimized for Fabric.
 
 **I'm currently looking for people to help developing and testing these modpacks. Any contribution is appreciated!**
 
