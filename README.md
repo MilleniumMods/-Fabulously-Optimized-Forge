@@ -62,6 +62,9 @@ These tests are only made for comparison purposes and should not be used as expe
 
 - 1.19.3:
 
+# You think I'm stupid?
+Thanks, so do I. But anyways, before you go to admincraft and start smacktalking these modpacks because of Optifine or whatever, I want you to (1) test them first, and (2) contact me either from an issue request or via Discord. I'm very reasonable and would really like to hear any critiques that you may have as long as they have a real proven base.
+
 # Disclaimers
 1. Even tho I do support Forge, I highly encourage switching to Fabric when it's applicable for your use case.
 2. I'll try my best to support Forge 1.12.2 & 1.16.5, but since these versions are no longer supported by most mod authors (And by the Forge team themselves), many features and optimizations of the modpack in newer versions may be missing.
@@ -69,3 +72,4 @@ These tests are only made for comparison purposes and should not be used as expe
 4. In order to bring as many features or optimizations as possible, some of the packs may use incomplete/unstable versions of some mods.
 5. This is not a direct fork of [Fabulously Optimized for Fabric](https://github.com/Fabulously-Optimized/fabulously-optimized) nor is officially supported by its author. If you have any issues while using one of the Fabulously Optimized **for Forge** modpacks, please make an issue request in **this** repository.
 6. In the event that any of these modpacks end up making the overall experience (Especially performance) worse than compared to just using Optifine, it's very likely that I'll just drop support for that specific version(s).
+7. The only real reason why I use FO as the main name it's because that way I can get more attention (Very smart, I know).
