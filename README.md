@@ -25,6 +25,10 @@ Ironically, the people that most need these kind of packs are also the ones less
 
 ❔ - In progress
 
+# Benchmarks
+
+Work in progress.
+
 # Known issues
 - 1.12.2:
 1. Nothirium causes OptiFine's DynamicLights not work at all.
