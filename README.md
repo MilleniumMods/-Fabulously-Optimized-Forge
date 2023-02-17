@@ -52,7 +52,7 @@ These tests are only made for comparison purposes and should not be used as expe
 | 1.19.3 | | | | |
 
 * FO Fabric: Fabulously Optimized Fabric, if applicable for the version
-* FOF: Fabulously Optimized Forge
+* FOF: Fantastically Optimized Forge
 * Seed: THISISARANDOMSEEDLOL
 
 # Known issues
