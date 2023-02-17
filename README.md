@@ -1,5 +1,7 @@
-# Fabulously Optimized, but Forge
+# ![Fabulously Optimized Forge](https://user-images.githubusercontent.com/46550675/219758500-78c177fa-745b-4337-b30a-159072b50c95.png) Fabulously Optimized, but Forge
 A Forge-based Minecraft modpack focusing on performance and graphics enhancements - Based off the original Fabulously Optimized for Fabric.
+
+**I'm currently looking for people to help developing and testing these modpacks. Any contribution is appreciated!**
 
 # Why remake this for Forge?
 Even though, in recent years, Fabric has seen the biggest contributions regarding optimizations for modded scenarios, there's still a pretty large amount of players that use Forge. These modpacks are for them.
@@ -26,8 +28,31 @@ Ironically, the people that most need these kind of packs are also the ones less
 ❔ - In progress
 
 # Benchmarks
+These tests are only made for comparison purposes and should not be used as expected results for each person's setup. All tests were done within the same world seed.
 
-Work in progress.
+**Startup time**
+| Version | Without FOF | With FOF |
+|---|---|---|
+| 1.12.2 | 44s | 55s |
+| 1.16.5 | | |
+| 1.19.3 | | |
+
+**Average FPS - 1000 Entities**
+| Version | Without FOF | With FOF |
+|---|---|---|
+| 1.12.2 | | |
+| 1.16.5 | | |
+| 1.19.3 | | |
+
+**Average FPS - Pre-generated exploration**
+| Version | Without FOF | With FOF |
+|---|---|---|
+| 1.12.2 | | |
+| 1.16.5 | | |
+| 1.19.3 | | |
+
+* FOF: Fabulously Optimized Forge
+* Seed: THISISARANDOMSEEDLOL
 
 # Known issues
 - 1.12.2:
