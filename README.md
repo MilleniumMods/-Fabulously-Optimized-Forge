@@ -32,21 +32,21 @@ These tests are only made for comparison purposes and should not be used as expe
 
 **Startup time**
 | Version | Without FOF | With FOF | Optifine | FO Fabric |
-|---|---|---|---|
+|---|---|---|---|---|
 | 1.12.2 | 44s | 55s | | |
 | 1.16.5 | | | | |
 | 1.19.3 | | | | |
 
 **Average FPS - 1000 Entities**
 | Version | Without FOF | With FOF | Optifine | FO Fabric |
-|---|---|---|---|
+|---|---|---|---|---|
 | 1.12.2 | | | | |
 | 1.16.5 | | | | |
 | 1.19.3 | | | | |
 
 **Average FPS - Pre-generated exploration**
 | Version | Without FOF | With FOF | Optifine | FO Fabric |
-|---|---|---|---|
+|---|---|---|---|---|
 | 1.12.2 | | | | |
 | 1.16.5 | | | | |
 | 1.19.3 | | | | |
