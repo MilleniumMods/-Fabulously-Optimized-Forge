@@ -11,11 +11,15 @@ Ironically, the people that most need these kind of packs are also the ones less
 
 | Supported versions roadmap | Supported? |
 |---|---|
-| 1.12.2 | ✅¹ |
-| 1.16.5 | ✅¹ |
-| 1.19.3 | ✅ |
+| 1.12.2 | ❔¹ |
+| 1.16.5 | ❔¹ |
+| 1.19.3 | ❔ |
 
 ¹ May lack constant updates or major features present in other versions
+✅ - Stable and supported
+❎ - Unstable but supported
+❗ - Unstable and unsupported
+❔ - In progress
 
 # Known issues
 - 1.12.2:
